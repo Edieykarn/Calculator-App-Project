@@ -1,6 +1,6 @@
 # Calculator App Project
 
-![Calculator App Screenshot](./screenshot.png)
+![Calculator App Screenshot](./Calculator.png)
 
 ## Description
 

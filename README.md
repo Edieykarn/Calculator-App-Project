@@ -18,4 +18,4 @@ This is a simple calculator app built using HTML, CSS, and JavaScript. The app a
 - CSS
 - JavaScript
 
-
+By: Edikan Jerry

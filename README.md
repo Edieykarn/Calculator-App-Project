@@ -12,6 +12,12 @@ This is a simple calculator app built using HTML, CSS, and JavaScript. The app a
 - Clear button to reset the calculator
 - Responsive design, suitable for both desktop and mobile devices
 
+
+view app
+
+[Applink(https://calculator-app-by-ediey.netlify.app/)]
+
+
 ## Technologies Used
 
 - HTML

@@ -15,7 +15,7 @@ This is a simple calculator app built using HTML, CSS, and JavaScript. The app a
 
 view app
 
-[Applink(https://calculator-app-by-ediey.netlify.app/)]
+[Calculator App](https://calculator-app-by-ediey.netlify.app/)
 
 
 ## Technologies Used
